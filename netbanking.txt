@@ -3,3 +3,8 @@ Union Bank
 KVB
 LVB
 IOB
+HDFC
+ICICI
+AXIS
+CITI
+Standard chartered
